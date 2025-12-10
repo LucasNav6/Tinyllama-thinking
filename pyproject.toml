@@ -2,5 +2,7 @@
 name = "tinyllama-thinking"
 version = "0.1.0"
 dependencies = [
+    "loguru>=0.7.3",
     "pydantic-ai>=1.29.0",
+    "python-dotenv>=1.2.1",
 ]
