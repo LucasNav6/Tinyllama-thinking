@@ -1,1 +1,1 @@
-MODEL_NAME = 'tinyllama:latest'
+MODEL_NAME = 'gemma3:latest'
