@@ -1,0 +1,6 @@
+[project]
+name = "tinyllama-thinking"
+version = "0.1.0"
+dependencies = [
+    "pydantic-ai>=1.29.0",
+]
